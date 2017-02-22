@@ -1,0 +1,1 @@
+This is an RF Power Meter capable of measuring Average RF Power from 40 MHz to 3.8 GHz and has a dynamic range of 75 dB. For more information go to www.sigmaiq.ca
